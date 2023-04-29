@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Front-end3",
+    "slug": "Front-end3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Front-end3"
+}
